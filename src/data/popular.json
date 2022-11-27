@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Минск",
+    "src": "https://s3.smartofood.ru/smartofood/menu/43a7af5c-146d-575d-92e9-4eda0e54bae6.jpg",
+    "weight": "250 г",
+    "description": "Лосось, огурец, творожный сыр",
+    "price": "320 ₽"
+  },
+  {
+    "title": "Сингапур",
+    "src": "https://s3.smartofood.ru/smartofood/menu/02d23bc6-ad35-5dae-986d-1eacfa2d5e8f.jpg",
+    "weight": "205 г",
+    "description": "Угорь, лосось, огурец, творожный сыр, унаги соус, кунжут",
+    "price": "400 ₽"
+  },
+  {
+    "title": "Калифорния",
+    "src": "https://s3.smartofood.ru/smartofood/menu/cd7915e8-bdb6-5766-aabf-73d902b90553.jpg",
+    "weight": "265 г",
+    "description": "Снежный краб, творожный сыр, икра летучей рыбы",
+    "price": "320 ₽"
+  },
+  {
+    "title": "Москва",
+    "src": "https://s3.smartofood.ru/smartofood/menu/39b9050b-e92d-50d6-91b5-2c99401783f3.jpg",
+    "weight": "250 г",
+    "description": "Лосось, огурец, творожный сыр, пекинская капуста, икра лососевая",
+    "price": "520 ₽"
+  }
+]
